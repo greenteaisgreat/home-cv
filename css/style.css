@@ -1,0 +1,49 @@
+ html {
+   box-sizing: border-box;
+}
+
+*, *::after, *::before {
+   box-sizing: inherit;
+}
+
+div {
+    background-color: #94B49F;
+    margin: auto;
+    
+}
+
+.pro {
+   text-decoration: underline;
+}
+
+.top {
+   padding-top: 50px;
+   position: relative;
+}
+
+.middle {
+   width: 200px;
+   height: 200px;
+   background-color: aqua; 
+}
+
+.bottom {
+   width: 200px;
+   height: 200px;
+   background-color: cornflowerblue;
+}
+
+ body {
+    margin: 0;
+    text-align: center;
+ }
+
+.bottom-cloud {
+   position: absolute;
+}
+
+.top-cloud {
+   position: relative;
+   left: 200px;
+   top: 20px;
+}
