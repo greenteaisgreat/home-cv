@@ -14,6 +14,22 @@
 
  }
 
+ .me {
+   width: 500px;
+   height: 500px;
+ }
+
+ .mountain {
+   margin-bottom: 150px;
+ }
+
+  .code, .jogging {
+   width: 800px;
+   height: 500px;
+ }
+
+
+
  h1 {
     font-family: 'Sacramento', cursive;
 
@@ -36,22 +52,11 @@
     position: relative;
  }
 
- .middle {
-    width: 200px;
-    height: 200px;
-    background-color: aqua;
- }
-
- .bottom {
-    width: 200px;
-    height: 200px;
-    background-color: cornflowerblue;
- }
-
  body {
     margin: 0;
     text-align: center;
     font-family: 'Merriweather', serif;
+    background-color: #94B49F
  }
 
  .bottom-cloud {
