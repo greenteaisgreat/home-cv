@@ -32,6 +32,7 @@
 
  h1 {
     font-family: 'Sacramento', cursive;
+    font-size: 5.5em;
 
  }
 
@@ -56,7 +57,7 @@
     margin: 0;
     text-align: center;
     font-family: 'Merriweather', serif;
-    background-color: #94B49F
+    background-color: #94B49F;
  }
 
  .bottom-cloud {
