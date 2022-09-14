@@ -1,17 +1,16 @@
- html {
-    box-sizing: border-box;
+html {
+   box-sizing: border-box;
+}
+
+*,
+*::after,
+*::before {
+   box-sizing: inherit;
  }
 
- *,
- *::after,
- *::before {
-    box-sizing: inherit;
- }
-
- div {
-    background-color: #94B49F;
-    margin: auto;
-
+div {
+  background-color: #94B49F;
+   margin: auto;
  }
 
  .me {
@@ -41,7 +40,6 @@ h3, a {
     font-family: 'Sacramento', cursive;
     font-size: 5.5rem;
     margin: 50px auto -10px;
-    line-height: 2;
 
  }
 
