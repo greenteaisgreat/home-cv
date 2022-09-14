@@ -29,15 +29,26 @@
  }
 
 
+h1, h2 {
+   color: #463f89;
+}
+
+h3, a {
+   color: #ac2ca4;
+}
 
  h1 {
     font-family: 'Sacramento', cursive;
-    font-size: 5.5em;
+    font-size: 5.5rem;
+    margin: 50px auto -10px;
+    line-height: 2;
 
  }
 
  h2 {
     font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
  }
 
  h3 {
