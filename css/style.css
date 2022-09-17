@@ -13,6 +13,11 @@ div {
    margin: auto;
  }
 
+ .skill-row {
+   width: 50%;
+
+ }
+
  .me {
    width: 500px;
    height: 500px;
