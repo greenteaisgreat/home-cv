@@ -15,7 +15,8 @@ div {
 
  .skill-row {
    width: 50%;
-
+   margin: 100px auto;
+   line-height: 2;
  }
 
  .me {
@@ -27,9 +28,25 @@ div {
    margin-bottom: 150px;
  }
 
-  .code, .jogging {
-   width: 800px;
-   height: 500px;
+  .code {
+   min-width: 15%;
+   min-height: 15%;
+   max-width: 20%;
+   max-height: 20%;
+   float: left;
+   margin-right: 30px;
+ }
+
+ .jogging {
+   min-width: 15%;
+   min-height: 15%;
+   max-width: 20%;
+   max-height: 20%;
+   float: right;
+ }
+
+ .skills {
+   text-align: left;
  }
 
 
@@ -56,7 +73,9 @@ h3, a {
 
  h3 {
     font-family: 'Montserrat', sans-serif;
+   
  }
+
 
  .pro {
     text-decoration: underline;
