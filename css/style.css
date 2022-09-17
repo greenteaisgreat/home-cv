@@ -47,6 +47,7 @@ div {
 
  .skills {
    text-align: left;
+   max-width: 1000px;
  }
 
 
